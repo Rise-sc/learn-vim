@@ -12,8 +12,8 @@ i,a,o等方法进入insert
 例如:java 在command输入 % s/java/python/g 就可以把文件中的java全部替换为python
 ## visual 
 一般选择块状文本\
-normal模式下使用v进入visual\ 
-vim -r .vim2.md.swp用V进入选择行\
+normal模式下使用v进入visual 
+vim -r .vim2.md.swp用V进入选择行 
 使用ctrl+q进行方块选择(不同的终端可能不一样,ctrl+v / ctrl+q )
 
 
