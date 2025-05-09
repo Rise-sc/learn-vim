@@ -4,7 +4,7 @@
 w : 保存\
 q : 离开\
 
-### insert(编辑模式)
+### normal -> insert(normal进入编辑模式)
 i : 光标前\
 a : 光标后\
 o : 光标下一行\
