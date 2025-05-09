@@ -13,7 +13,7 @@ i,a,o等方法进入insert
 ## visual 
 一般选择块状文本\
 normal模式下使用v进入visual \
-vim -r .vim2.md.swp用V进入选择行 \
+用大V进入选择行 \
 使用ctrl+q进行方块选择(不同的终端可能不一样,ctrl+v / ctrl+q )
 
 
